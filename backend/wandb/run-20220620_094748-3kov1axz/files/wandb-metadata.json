@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.16.0-12parrot1-amd64-x86_64-with-glibc2.31",
+    "python": "3.9.2",
+    "heartbeatAt": "2022-06-20T15:47:50.690279",
+    "startedAt": "2022-06-20T15:47:48.710415",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--port",
+        "8080",
+        "--model_version",
+        "mega"
+    ],
+    "state": "running",
+    "program": "/home/brad/Documents/Repositories/Dalle/dalle-playground/backend/app.py",
+    "codePath": "backend/app.py",
+    "git": {
+        "remote": "https://github.com/saharmor/dalle-playground.git",
+        "commit": "d86d1816b60228bb6f9de460cc020c3aedae54d9"
+    },
+    "email": null,
+    "root": "/home/brad/Documents/Repositories/Dalle/dalle-playground",
+    "host": "Brad-Laptop",
+    "username": "brad",
+    "executable": "/usr/bin/python3"
+}
